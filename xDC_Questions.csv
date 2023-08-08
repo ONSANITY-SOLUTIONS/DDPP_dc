@@ -1,0 +1,41 @@
+codeTopic,codePac,codePro,Titulo,qPac,qPro
+p1,pac1a,,Edad,,
+p2,pac1b,,Genero,,
+p3,pac1c,,Región,,
+p4,pac1d,,Estudios,,
+p5,pac1e,,Vivienda,,
+p6,pac1f,,,,
+p7,pac1g,,,,
+p8,pac1h,,,,
+p9,pac2a,,,,
+p10,pac2b,,,,
+p11,pac2c,,,,
+2d2j,pac2c,pro2j,Implicación alta hospital(Paciente vs YO),¿En qué medida el equipo de rehabilitación se implica en su atención al alta del hospital?,Me implico en la atención al alta del hospital
+2d2k,pac2c,pro2k,Implicación alta hospital (Paciente vs H),¿En qué medida el equipo de rehabilitación se implica en su atención al alta del hospital?,"En general, todo el equipo de RHB se implica en la atención al alta del hospital"
+2e2m,pac2d,pro2m,Implicación hospitalización(Paciente vs YO),¿En qué medida el equipo de rehabilitación se implica en su atención cuando no ha estado hospitalizado?,Me implico en la atención y seguimiento cuando el paciente ya es crónico
+2e2n,pac2d,pro2n,Implicación hospitalización(Paciente vs H),¿En qué medida el equipo de rehabilitación se implica en su atención cuando no ha estado hospitalizado?,"En general, todo el equipo de RHB se implica en la atención y seguimiento cuando el paciente ya es crónico"
+2f2o,pac2e,pro2o,Espectativas revisiones,¿En qué medida las revisiones presenciales en consulta de rehabilitación cumplen sus expectativas como paciente?,Las revisiones presenciales en consulta de rehabilitación cumplen las expectativas del paciente
+4a5a,pac4a,pro5a,Envio de programas ejecicio,¿Considera útil el envío de programas de ejercicios para hacer en casa?,¿Consideras útil enviar a tus pacientes programas de terapia para hacer en casa?
+4b5b,pac4b,pro5b,Comunicación a distancia,¿Considera útil comunicarse a distancia con el terapeuta para realizar los ejercicios pautados?,¿Consideras útil comunicarte a distancia con tu paciente para realizar las terapias pautadas?
+4c5c,pac4c,pro5c,Whatsapp,¿Que soporte le gusta más para una terapia a distancia? Whatsapp,¿Que soporte te gusta más para que tus pacientes hagan una terapia a distancia? Whatsapp
+4d5d,pac4d,pro5d,Facebook,¿Que soporte le gusta más para una terapia a distancia? Facebook,¿Que soporte te gusta más para que tus pacientes hagan una terapia a distancia? Facebook
+4e5e,pac4e,pro5e,Correo electrónico,¿Que soporte le gusta más para una terapia a distancia? Correo Electrónico,¿Que soporte te gusta más para que tus pacientes hagan una terapia a distancia? Correo Electrónico
+4f5f,pac4f,pro5f,Grabación y envío de videos*,¿Es capaz de grabarse los ejercicios y mandarlos a su terapeuta?,¿Dispones en tu consulta de medios tecnológicos para revisar y dar feedback de las terapias grabadas en video por tus pacientes?
+4g5g,pac4g,pro5g,Citas presenciales,¿Necesita citas presenciales ocasionales de su terapeuta para hacer los ejercicios en casa?,¿Consideras necesarias citas presenciales ocasionales del terapeuta para que el paciente pueda hacer las terapias en casa?
+4h5h,pac4h,pro5h,Citas Telefonicas/Video,¿Necesita citas telefónicas/videollamadas con su terapeuta para hacer los ejercicios en casa?,¿Consideras necesarias citas telefónicas/videollamadas del terapeuta para que el paciente pueda hacer la terapia en casa?
+4i5i,pac4i,pro5i,Programa mixto,¿Le gustaría un programa mixto de tratamiento presencial y no-presencial tutelado por sus terapeutas?,¿Consideras que un programa mixto de tratamiento presencial y no-presencial tutelado por el terapeuta sería eficaz para el seguimiento/tratamiento del paciente?
+4j5j,pac4j,pro5j,Videos modelo,"¿Consideras útil tener ""videos modelo"" para que el paciente pueda seguir las terapias?","¿Consideras útil tener ""videos modelo"" para que el paciente pueda seguir las terapias?"
+4k5k,pac4k,pro5k,Educación sanitaria,¿Considera útil la educación sanitaria por vídeo?,¿Consideras útil la educación sanitaria por vídeo?
+5b6b,pac5b,pro6b,Rehabilitación domiciliaria,¿le ha sido últil?,¿La consideras de utilidad?
+6a7a,pac6a,pro7a,Intercambio de experiencias,¿Le gustaría compartir sus experiencias con otros pacientes de forma virtual?,¿Te parecería útil que los pacientes compartiesen sus experiencias con otros pacientes de forma virtual?
+6b7b,pac6b,pro7b,Terapia colectiva,¿Le gustaría realizar actividades de terapia colectiva de forma telemática?,¿Crees que a tus pacientes les gustaría realizar actividades de terapia colectiva de forma telemática?
+7a8e,pac7a,pro8e,Contacto no presencial,¿El contacto no presencial con el Servicio de rehabilitación le ha sido útil?,¿Consideras la consulta/tratamiento telemática útil para ayudar a tus pacientes?
+7b8d,pac7b,pro8d,Dudas durante la pandemia COVID,¿Ha conseguido resolver sus dudas médicas durante la pandemia?,¿Has conseguido resolver las dudas de tus pacientes durante la pandemia?
+7c8f,pac7c,pro8f,Practicidad de la no presencialidad*,¿Le resulta práctica la relación no presencial con el Servicio de rehabilitación?,¿Consideras eficaz realizar algunas de tus consultas/tratamientos de forma no presencial (ej. teléfono/videollamada/etc)?
+7d8f,pac7d,pro8f,Reemplazar la no presencialidad*,¿Sustituye la visita no presencial a alguna de las visitas convencionales presenciales?,¿Consideras eficaz realizar algunas de tus consultas/tratamientos de forma no presencial (ej. teléfono/videollamada/etc)?
+7e9b,pac7e,pro9b,Renovación ortopedica,¿Le resulta útil la renovación ortopédica (ortesis y sillas de ruedas) por visita no presencial?,¿Te resulta útil la renovación ortopédica (ortesis y sillas de ruedas) por visita no presencial?
+7f9c,pac7f,pro9c,Receta médica,¿Le resulta útil que la receta médica se haga sin presencia física?,¿Te resulta útil que la receta médica se haga sin presencia física?
+7g9d,pac7g,pro9d,Prescripción terapia,¿Le resulta útil que la prescripción de ejercicios se haga sin presencia física?,¿Te resulta útil que la prescripción de terapia se haga sin presencia física?
+l7h9e,pac7h,pro9e,Adaptaciones a domicilio,¿Le resulta útil que las adaptaciones al domicilio se hagan de forma no presencial?,¿Te resulta útil hacer las adaptaciones al domicilio de forma no presencial?
+8a8b,pac8a,pro8b,Consulta telemática*,¿Le gusta la consulta telemática?,¿Te gusta la consulta/tratamiento telemática?
+8b8c,pac8b,pro8c,Necesidad de tutoriales,¿Le gustaría tener unas instrucciones previas antes de la llamada para preparar sus dudas para la consulta del médico rehabilitador?,¿Consideras necesario disponer de tutoriales previos para preparar la consulta/tratamiento no presencial de tus pacientes?
